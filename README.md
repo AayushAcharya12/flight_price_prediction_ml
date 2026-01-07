@@ -31,15 +31,6 @@ cd Project_2_Flight_Price_Prediction
 streamlit run app.py
 Follow the web interface to select the model, enter flight details, and get predicted prices.
 
-5. Folder Structure
-
-Project_2_Flight_Price_Prediction/
-│
-├── app.py              # Streamlit app
-├── models/             # Saved ML models
-├── data/               # DataSets Used
-├── src/                # Notebooks and scripts
-└── README.md
 
 Author
 Aayush Acharya
